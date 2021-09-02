@@ -21,7 +21,7 @@ body{
     width: 45px;
     height: 80px;
     border-radius: 70% 70% 70% 70% / 20% 20% 18% 10%;
-    background:url(enemy.png) no-repeat;
+    background:url(enemy1.png) no-repeat;
     background-size: 100% 100%;
     position: absolute;
 z-index: 1;
